@@ -1,1 +1,1 @@
-New changes to test how merge works
+Changes to test how pull works
